@@ -1,0 +1,9 @@
+'Origin.doc' is a original document,don't change it!
+'Target.doc' is the place where you can make changes,all translation words should be put here and do replacement.
+
+When you clone these docs from github.  'Target.doc' might be changed by someone else already, there is a condition that you want to read the original words but it has been translated . Just open the 'Origin.doc' and read , but don't change it.
+
+“Origin.doc”是原文，不要对它做修改！
+“Target.doc”是我们做翻译工作的地方，翻译后的文字应该在这里与原文做替换。
+
+当你把这些文档从github克隆下来的时候，“Target.doc”有可能已经被别人做了修改，这时就有你想阅读的原文部分已经被别人翻译的情况，这时打开“Origin.doc”阅读原文就好了，但不要做修改。
